@@ -46,7 +46,7 @@ function Data() {
   }, []);
 
   return (
-    <div className="flex flex-col gap-8">
+    <div className="bg-gray-200 flex flex-col gap-8">
       <div className="p-4 bg-gray-100 rounded-lg">
         <h2 className="text-2xl font-bold mb-4 text-center">Fitness Data</h2>
         <table className="w-full">
